@@ -10,5 +10,13 @@ A simple to-do list application created using HTML, CSS, and JavaScript.
 - **Responsive Design:** The application is designed to work seamlessly on various devices.
 
 
+## Getting Started
+
+To use the to-do list app, simply open the `index.html` file in a web browser. You can also clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/your-username/todo-list-app.git
+
+
 ## Demo:
 https://vaidehijadhav.github.io/To-Do_List/
